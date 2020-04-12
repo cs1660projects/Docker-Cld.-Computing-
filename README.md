@@ -1,10 +1,3 @@
-# TESTING SET UP
-
-1. pip install -requirements.txt (requests,pytest,flask)
-
-2. To run, change directory into api_gateway_microservice/microservices/test_case.
-
-3. Type command: pytest test_gen.py
-
-4. Test container should run with results if test was success/failure.
+FINISHED : First application communicates with the User (accepts user input and displays the output). This application is deployed on Docker container. 
   
+YOUTUBE LINK: https://www.youtube.com/watch?v=3DC6insILSg
